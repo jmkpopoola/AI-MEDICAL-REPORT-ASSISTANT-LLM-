@@ -123,5 +123,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any queries, feel free to reach out via:
-- **GitHub Issues**: [Issues]([https://github.com/MGJillaniMughal/AI_Medical_Report_Assistant](https://github.com/jmkpopoola/AI-MEDICAL-REPORT-ASSISTANT-LLM-)/issues)
+- **GitHub Issues**: [Issues](https://github.com/jmkpopoola/AI-MEDICAL-REPORT-ASSISTANT-LLM-)/issues)
 - **Email**: jmkpopoola1@gmail.com
