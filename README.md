@@ -1,7 +1,7 @@
 # AI Agents for Medical Diagnostics
 
 ![AI Medical Assistant UI](https://github.com/jmkpopoola/AI-MEDICAL-REPORT-ASSISTANT-LLM-/blob/main/assets/ui.png)
-![AI Medical Assistant Banner](banner.png)
+![AI Medical Assistant Banner](https://github.com/jmkpopoola/AI-MEDICAL-REPORT-ASSISTANT-LLM-/blob/main/assets/banner.png)
 
 A Python-based project designed to create specialized LLM-powered AI agents that analyze complex medical cases. This system integrates insights from various medical professionals to provide comprehensive assessments and personalized treatment recommendations, showcasing the transformative potential of AI in multidisciplinary medicine.
 
